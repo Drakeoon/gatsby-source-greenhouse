@@ -64,6 +64,5 @@ typings/
 #VSCode
 .vscode/*
 
-/*.js
 yarn.lock
 .DS_STORE
